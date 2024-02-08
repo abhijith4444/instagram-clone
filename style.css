@@ -1,0 +1,203 @@
+.main-body{
+    width: 1700px;
+    height: 800px;
+    margin: -10px;
+    background-color:#fff;
+}
+
+.side-menu{
+    width: 246px;
+    height: 750px;
+    background-color: #ffff;
+}
+
+#vertical-line{
+    margin-top: -633px;
+    margin-left: 260px;
+    border-right: 1px solid #808080;
+  height: 800px;
+}
+
+.insta-logo{
+    width: 243px;
+    height: 102px;
+
+}
+
+#logo-size{
+    width: 148px;
+    height: 119px;
+    margin-right:60px;
+    margin-left: 40px;
+}
+
+#Home{
+    width: 187px;
+    height: 16px; 
+      background-color: white;
+      font-size: 17px;
+      padding: 30px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.icon-size{
+    width: 30px;
+    height: 30px;
+    
+}
+
+.side-menu-icon{
+    width: 187px;
+    height: 16px; 
+      background-color: white;
+      font-size: 17px;
+      padding: 30px;
+      transition: 0.2s;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.side-menu-icon:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+}
+
+/* #Search{
+    width: 187px;
+    height: 16px; 
+      background-color: white;
+      font-size: 17px;
+      padding: 30px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* #search-size{
+    width: 40px;
+    height: 31px;
+} */
+
+/* #Explore{
+    width: 187px;
+    height: 16px; 
+      background-color: white;
+      font-size: 17px;
+      padding: 30px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#Reels{
+    width: 187px;
+    height: 16px; 
+      background-color: white;
+      font-size: 17px;
+      padding: 30px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#Message{
+    width: 187px;
+    height: 16px; 
+      background-color: white;
+      font-size: 17px;
+      padding: 30px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#Notification{
+    width: 187px;
+    height: 16px; 
+      background-color: white;
+      font-size: 17px;
+      padding: 30px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#Create{
+    width: 187px;
+    height: 16px; 
+      background-color: white;
+      font-size: 17px;
+      padding: 30px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}  */
+
+
+.bio{
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    float:left;
+    margin-left: 321px;
+    margin-top: -750px;
+    
+}
+#img-size{
+    width: 200px;
+    height: 200px;
+    float:inline-start;
+    padding: 40px;
+    margin-left: 50px;
+   
+}
+
+
+.details{
+    height: 300px;
+    width: 600px;
+    background-color:#ffff;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: -750px;
+    margin-left: 727px;
+    padding: 20px;
+    
+}
+
+.button{
+    height: 30px;
+    width: 99px;
+    margin-left: 25px;
+    border-radius: 5px;
+    border: none;
+  
+    
+}
+
+.highlight{
+    width: 940px;
+    height: 1px;
+    margin-left: 398px;
+    background-color: grey;
+}
+
+.post{
+    width: 1091px;
+    height: 385px;
+    background-color: #ffff;
+    margin-left: 332px;
+    margin-top: 6px;
+}
+.PST{
+    width: 564px;
+    height: 29px;
+    background-color: white;
+    margin-left: 525px;
+    padding-left: 208px;
+    margin-top: -6px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+
+}
+
+.post-size{
+    width: 350px;
+    height: 332px;
+    margin-top: 20px;
+    margin-left: 3px;
+    transition: 0.2s;
+}
+
+.post-size:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+}
+
